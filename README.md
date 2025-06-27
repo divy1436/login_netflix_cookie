@@ -11,7 +11,7 @@
 
 This project demonstrates how session-based authentication works in web applications.  
 By importing valid browser cookies, we simulate logging into Netflix **without using a traditional username and password**.  
-This experiment helps in understanding how session cookies manage login states.
+This experiment helps in understanding how session cookies manage login states. m
 
 ---
 
